@@ -6,7 +6,7 @@
  *
  *return: Always 0.
  **/
-int main(void)
+int main(void)// this specifies there are no arguments taken by main
 {
 	char d = 'a';
 
