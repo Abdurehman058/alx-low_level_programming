@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print two different digits, in ascending order, separated by a commma space.
+ * main - print 2 different digits in ascending order by commma & space.
  *
  * Return: Always 0.
  */
