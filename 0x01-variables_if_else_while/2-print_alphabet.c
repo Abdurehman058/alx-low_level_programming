@@ -4,7 +4,7 @@
 /**
  *main - prints the alphabet in lowercase
  *
- *return: 0 if success
+ *return: Always 0.
  **/
 int main(void)
 {
